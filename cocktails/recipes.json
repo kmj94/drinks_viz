@@ -1,0 +1,1712 @@
+[
+    {
+        "recipeName": "Whiskey Sour",
+        "spiritName": "Whiskey",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake all ingredients with ice and strain contents into a cocktail glass. Garnish with Cherry.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Manhattan",
+        "spiritName": "Whiskey",
+        "className": "Classic",
+        "mixerName": "",
+        "recipeMethod": "Stirred over ice and strained into a chilled glass. Garnish with Cherry.",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Sweet Vermouth",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "2",
+                "compName": "dash",
+                "ingredientName": "Agnostura Bitters",
+                "vizVolume": "0.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Margarita",
+        "spiritName": "Tequila",
+        "className": "Classic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shaken with ice. Garnish with Lime Wedge.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Tequila Blanco",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.25",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Margarita",
+        "spiritName": "Tequila",
+        "className": "Classic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shaken with ice. Garnish with Lime Wedge.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2.5",
+                "compName": "oz",
+                "ingredientName": "Tequila Reposado",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Agave Nectar",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Gin and Tonic",
+        "spiritName": "Gin",
+        "className": "Tonic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stirred with Ice",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Tonic Water",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "John Collins",
+        "spiritName": "Whiskey",
+        "className": "Collins",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Stirred with Ice, topped with Club Soda",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Club Soda",
+                "vizVolume": "3"
+            }
+        ]
+    },
+    {
+        "recipeName": "Tom Collins",
+        "spiritName": "Gin",
+        "className": "Collins",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Stirred with Ice, topped with Club Soda",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "3"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Club Soda",
+                "vizVolume": "3"
+            }
+        ]
+    },
+    {
+        "recipeName": "Tequila Sunrise",
+        "spiritName": "Tequila",
+        "className": "Classic",
+        "mixerName": "Orange Juice",
+        "recipeMethod": "Stir Tequila and Orange Juice with Ice. Pour Grenadine on edge of glass",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Tequila Blanco",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Orange Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Grenadine Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Gin Sour",
+        "spiritName": "Gin",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake all ingredients with ice and strain contents into a cocktail glass. Garnish with Cherry.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Daiquiri",
+        "spiritName": "Rum",
+        "className": "Sour",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shake all ingredients with ice, strain into chilled glass",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "3",
+                "compName": "oz",
+                "ingredientName": "White Rum",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Butterbeer",
+        "spiritName": "Vodka",
+        "className": "Seasonal",
+        "mixerName": "",
+        "recipeMethod": "Stir ingredients together in chilled mug. Top with whipped cream",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Butterscotch Schnapps",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "9",
+                "compName": "oz",
+                "ingredientName": "Cream Soda",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Kentucky Mule",
+        "spiritName": "Whiskey",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Paper Plane",
+        "spiritName": "Whiskey",
+        "className": "Modern",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake with ice and strain into glass",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Nonino",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Aperol",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Aviation",
+        "spiritName": "Gin",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake with ice and strain into glass",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "3",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Maraschino",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Bacardi",
+        "spiritName": "Rum",
+        "className": "Sour",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shake with ice and strain into glass",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "White Rum",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Grenadine Syrup",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Lemon Drop",
+        "spiritName": "Vodka",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake with ice and strain into glas. Is fine - very tart and refreshing, but not a first choice",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2"
+            }
+        ]
+    },
+        {
+        "recipeName": "Mexican Mule",
+        "spiritName": "Tequila",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Tequila Reposado",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Kamikaze",
+        "spiritName": "Vodka",
+        "className": "Sour",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "White Lady",
+        "spiritName": "Gin",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Bourbon and Apple Cider",
+        "spiritName": "Whiskey",
+        "className": "Seasonal",
+        "mixerName": "",
+        "recipeMethod": "Shake first three ingredients with ice, strain into ice filled glass. Top with ginger beer. Garnish with apple wedge",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Apple Cider",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Maple Syrup",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Foghorn",
+        "spiritName": "Gin",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Buttery Nipple",
+        "spiritName": "",
+        "className": "Seasonal",
+        "mixerName": "",
+        "recipeMethod": "Shake ingredients together with ice, serve over ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Butterscotch Schnapps",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Irish Cream",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Buttery Finger",
+        "spiritName": "Vodka",
+        "className": "Seasonal",
+        "mixerName": "",
+        "recipeMethod": "Shake ingredients together with ice, serve over ice. Garnish with Cherry",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Irish Cream",
+                "vizVolume": "2"
+            },
+                        {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Butterscotch Schnapps",
+                "vizVolume": "2"
+            },
+                        {
+                "compID": "4",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Kahlua",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "White Russian",
+        "spiritName": "Vodka",
+        "className": "",
+        "mixerName": "",
+        "recipeMethod": "Stir ingredients, adding cream last",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Kahlua",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Half and Half",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Kahlua Sour",
+        "spiritName": "",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2.5",
+                "compName": "oz",
+                "ingredientName": "Kahlua",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Brown Cow",
+        "spiritName": "",
+        "className": "",
+        "mixerName": "",
+        "recipeMethod": "Stir ingredients over ice, adding cream last",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Kahlua",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "2.5",
+                "compName": "oz",
+                "ingredientName": "Half and Half",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Mudslide",
+        "spiritName": "Vodka",
+        "className": "Seasonal",
+        "mixerName": "",
+        "recipeMethod": "stir ingredients over ice. Garnish with Cherry",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Irish Cream",
+                "vizVolume": "2"
+            },
+                        {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Kahlua",
+                "vizVolume": "2"
+            },
+                        {
+                "compID": "4",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Half and Half",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Moscow Mule",
+        "spiritName": "Vodka",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Vodka Tonic",
+        "spiritName": "Vodka",
+        "className": "Tonic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stirred with Ice",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Vodka",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Tonic Water",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+        {
+        "recipeName": "Why Not",
+        "spiritName": "Whiskey",
+        "className": "Sidecar",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shaken with Ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.75",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Maple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Tequila and Tonic",
+        "spiritName": "Tequila",
+        "className": "Tonic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stirred with Ice",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Tequila Reposado",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Tonic Water",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Pegu Club",
+        "spiritName": "Gin",
+        "className": "Classic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shake with ice, strain into chilled glass. Can try with less lime juice, was tart",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Cointreau",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "1",
+                "compName": "dash",
+                "ingredientName": "Agnostura Bitters",
+                "vizVolume": "0.5"
+            },
+            {
+                "compID": "5",
+                "compQuantity": "1",
+                "compName": "dash",
+                "ingredientName": "Orange Bitters",
+                "vizVolume": "0.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Mimosa",
+        "spiritName": "Sparkling Wine",
+        "className": "Highball",
+        "mixerName": "Orange Juice",
+        "recipeMethod": "Combine in chilled flute",
+        "glassID": "4",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "5",
+                "compName": "oz",
+                "ingredientName": "Sparkling Wine",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Orange Juice",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "French 75",
+        "spiritName": "Sparkling Wine",
+        "className": "Daiquiri",
+        "mixerName": "Orange Juice",
+        "recipeMethod": "Shake everything but Sparkling Wine, pour in chilled flute, then add wine and mix",
+        "glassID": "4",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Sparkling Wine",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "David Kaplan's Favorite Martini",
+        "spiritName": "Gin",
+        "className": "Martini",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir over ice, strain into chilled glass. Garnish with lemon twist",
+        "glassID": "1",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2.5",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.25",
+                "compName": "oz",
+                "ingredientName": "Dry Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.25",
+                "compName": "oz",
+                "ingredientName": "Blanc Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "1",
+                "compName": "dash",
+                "ingredientName": "Orange Bitters",
+                "vizVolume": "0.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Jamaican Mule",
+        "spiritName": "Rum",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "White Rum",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Rum and Tonic",
+        "spiritName": "Rum",
+        "className": "Tonic",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stirred with Ice",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "White Rum",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Tonic Water",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Jack Rose",
+        "spiritName": "Brandy",
+        "className": "Sour",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Shaken with ice, served over chilled glass. Try with 1 oz lime/0.5 Grenadine next. Also maybe lemon juice?",
+        "glassID": "4",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Apple Brandy",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Grenadine Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+        {
+        "recipeName": "Caipirissima",
+        "spiritName": "Rum",
+        "className": "Sour",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Muddle limes and syrup, add rum and shake with ice. Pour into glass, add crushed ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "White Rum",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Brown Sugar Syrup",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "half",
+                "ingredientName": "Lime",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Pink Lady",
+        "spiritName": "Gin",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Dry shake all ingredients (if using optional egg white), then shake with ice and strain into a chilled coupe, garnish with cherry",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Apple Brandy",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Grenadine Syrup",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "5",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Dry Negroni",
+        "spiritName": "Gin",
+        "className": "Negroni",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir all ingredients over ice, then strain into glass with one large ice cube. Garnish with orange wedge",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Dry Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Campari",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Negroni Bianco",
+        "spiritName": "Gin",
+        "className": "Negroni",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir all ingredients over ice, then strain into glass with one large ice cube. Garnish with orange wedge",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Blanc Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Campari",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Apple Brandy Sour",
+        "spiritName": "Brandy",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake all ingredients with ice and strain contents into a cocktail glass. Garnish with Cherry.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Apple Brandy",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Applejack Mule",
+        "spiritName": "Brandy",
+        "className": "Mule",
+        "mixerName": "Lime Juice",
+        "recipeMethod": "Stir ingredients together in glass with ice",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Apple Brandy",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "1.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Ginger Beer",
+                "vizVolume": "1.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Pisco Sour",
+        "spiritName": "Brandy",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake all ingredients with ice and strain contents into a cocktail glass. Optional egg white.",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Pisco",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": ".5",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": ".5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": ".75",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "5",
+                "compQuantity": "3",
+                "compName": "drops",
+                "ingredientName": "Agnostura Bitters",
+                "vizVolume": "0.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Cupid's Cup",
+        "spiritName": "Brandy",
+        "className": "Sour",
+        "mixerName": "Lemon Juice",
+        "recipeMethod": "Shake all ingredients with ice and strain contents into a cocktail glass. Optional egg white mint leaves garnish. Myabe too much simple syrup/mot enough pisco? 2/1/.75.75 worked well",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Pisco",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Lemon Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Aperol",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Simple Syrup",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Americano",
+        "spiritName": "Vermouth",
+        "className": "Highball",
+        "mixerName": "Club Soda",
+        "recipeMethod": "Add Campari and Vermouth with ice and stir. Add soda and stir once. Garnish with orange slice. Try less club soda next time",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Campari",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Sweet Vermouth",
+                "vizVolume": "2"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Club Soda",
+                "vizVolume": "2"
+            }
+        ]
+    },
+    {
+        "recipeName": "Martinez",
+        "spiritName": "Gin",
+        "className": "Martini",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir all ingredients over ice, strain into a chilled glass. Lemon twist as garnish",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Sweet Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "tsp",
+                "ingredientName": "Maraschino",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "4",
+                "compQuantity": "2",
+                "compName": "dash",
+                "ingredientName": "Orange Bitters",
+                "vizVolume": "0.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Boulevardier",
+        "spiritName": "Whiskey",
+        "className": "Martini",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir all ingredients over ice, strain into a chilled glass. Cherry as garnish",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1.5",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Sweet Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "0.75",
+                "compName": "oz",
+                "ingredientName": "Campari",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Negroni",
+        "spiritName": "Gin",
+        "className": "Negroni",
+        "mixerName": "Vermouth",
+        "recipeMethod": "Stir all ingredients over ice, then strain into glass with one large ice cube. Garnish with orange wedge",
+        "glassID": "2",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Sweet Vermouth",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "1",
+                "compName": "oz",
+                "ingredientName": "Campari",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Whisky Highball",
+        "spiritName": "Whiskey",
+        "className": "Highball",
+        "mixerName": "Seltzer",
+        "recipeMethod": "Pour whisky and add 1 ice cube, sit for 3 seconds. Add seltzer and stir once",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Whiskey",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Seltzer",
+                "vizVolume": "2.5"
+            }
+        ]
+    },
+    {
+        "recipeName": "Gin Rickey",
+        "spiritName": "Gin",
+        "className": "Highball",
+        "mixerName": "Club Soda",
+        "recipeMethod": "Fill glass with ice, add gin and lime juice. Top with club soda",
+        "glassID": "5",
+        "components": [
+            {
+                "compID": "1",
+                "compQuantity": "2",
+                "compName": "oz",
+                "ingredientName": "Gin",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "2",
+                "compQuantity": "0.5",
+                "compName": "oz",
+                "ingredientName": "Lime Juice",
+                "vizVolume": "2.5"
+            },
+            {
+                "compID": "3",
+                "compQuantity": "4",
+                "compName": "oz",
+                "ingredientName": "Club Soda",
+                "vizVolume": "2.5"
+            }
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+{
+    "Whiskey": {
+        "ingredientID": "1",
+        "ingredientGroup": "1",
+        "ingredientColour": "#642714"
+    },
+    "Lemon Juice": {
+        "ingredientID": "2",
+        "ingredientGroup": "2",
+        "ingredientColour": "#fff44f"
+    },
+    "Simple Syrup": {
+        "ingredientID": "3",
+        "ingredientGroup": "3",
+        "ingredientColour": "#fffde7"
+    },
+    "Sweet Vermouth": {
+        "ingredientID": "4",
+        "ingredientGroup": "4",
+        "ingredientColour": "#751313"
+    },
+    "Agnostura Bitters": {
+        "ingredientID": "5",
+        "ingredientGroup": "5",
+        "ingredientColour": "#322222"
+    },
+    "Tequila Blanco": {
+        "ingredientID": "6",
+        "ingredientGroup": "1",
+        "ingredientColour": "#a6a1a1"
+    },
+    "Lime Juice": {
+        "ingredientID": "7",
+        "ingredientGroup": "2",
+        "ingredientColour": "#b7d011"
+    },
+    "Cointreau": {
+        "ingredientID": "8",
+        "ingredientGroup": "4",
+        "ingredientColour": "#eb8334"
+    },
+    "Tequila Reposado": {
+        "ingredientID": "9",
+        "ingredientGroup": "1",
+        "ingredientColour": "#d9bd59"
+    },
+    "Agave Nectar": {
+        "ingredientID": "10",
+        "ingredientGroup": "3",
+        "ingredientColour": "#6b3925"
+    },
+    "Gin": {
+        "ingredientID": "11",
+        "ingredientGroup": "1",
+        "ingredientColour": "#d5dfc0"
+    },
+    "Tonic Water": {
+        "ingredientID": "12",
+        "ingredientGroup": "6",
+        "ingredientColour": "#dcf0ef"
+    },
+    "Club Soda": {
+        "ingredientID": "13",
+        "ingredientGroup": "6",
+        "ingredientColour": "#dcf0ef"
+    },
+    "Orange Juice": {
+        "ingredientID": "14",
+        "ingredientGroup": "2",
+        "ingredientColour": "#ffab42"
+    },
+    "Grenadine Syrup": {
+        "ingredientID": "15",
+        "ingredientGroup": "3",
+        "ingredientColour": "#750b0b"
+    },
+    "White Rum": {
+        "ingredientID": "16",
+        "ingredientGroup": "1",
+        "ingredientColour": "#dcf0ef"
+    },
+    "Vodka": {
+        "ingredientID": "17",
+        "ingredientGroup": "1",
+        "ingredientColour": "#babcf7"
+    },
+    "Butterscotch Schnapps": {
+        "ingredientID": "18",
+        "ingredientGroup": "4",
+        "ingredientColour": "#c98932"
+    },
+    "Cream Soda": {
+        "ingredientID": "19",
+        "ingredientGroup": "6",
+        "ingredientColour": "#f2dfbc"
+    },
+    "Ginger Beer": {
+        "ingredientID": "20",
+        "ingredientGroup": "6",
+        "ingredientColour": "#a26427"
+    },
+    "Nonino": {
+        "ingredientID": "21",
+        "ingredientGroup": "4",
+        "ingredientColour": "#66061b"
+    },
+    "Aperol": {
+        "ingredientID": "22",
+        "ingredientGroup": "4",
+        "ingredientColour": "#d13255"
+    },
+    "Maraschino": {
+        "ingredientID": "23",
+        "ingredientGroup": "4",
+        "ingredientColour": "#e0a4ae"
+    },
+    "Apple Cider": {
+        "ingredientID": "24",
+        "ingredientGroup": "6",
+        "ingredientColour": "#d99634"
+    },
+    "Maple Syrup": {
+        "ingredientID": "25",
+        "ingredientGroup": "3",
+        "ingredientColour": "#733709"
+    },
+    "Irish Cream": {
+        "ingredientID": "26",
+        "ingredientGroup": "4",
+        "ingredientColour": "#f5e5cf"
+    },
+    "Kahlua": {
+        "ingredientID": "27",
+        "ingredientGroup": "4",
+        "ingredientColour": "#2e1a0b"
+    },
+    "Half and Half": {
+        "ingredientID": "28",
+        "ingredientGroup": "6",
+        "ingredientColour": "#ffffff"
+    },
+    "Sparkling Wine": {
+        "ingredientID": "29",
+        "ingredientGroup": "1",
+        "ingredientColour": "#ead996"
+    },
+    "Orange Bitters": {
+        "ingredientID": "30",
+        "ingredientGroup": "5",
+        "ingredientColour": "#ffab42"
+    },
+    "Dry Vermouth": {
+        "ingredientID": "31",
+        "ingredientGroup": "4",
+        "ingredientColour": "#d8f0d1"
+    },
+    "Blanc Vermouth": {
+        "ingredientID": "32",
+        "ingredientGroup": "4",
+        "ingredientColour": "#f2eabb"
+    },
+    "Apple Brandy": {
+        "ingredientID": "33",
+        "ingredientGroup": "1",
+        "ingredientColour": "#642714"
+    },
+    "Lime": {
+        "ingredientID": "34",
+        "ingredientGroup": "7",
+        "ingredientColour": "#b7d011"
+    },
+    "Brown Sugar Syrup": {
+        "ingredientID": "35",
+        "ingredientGroup": "3",
+        "ingredientColour": "#332211"
+    },
+    "Campari": {
+        "ingredientID": "36",
+        "ingredientGroup": "4",
+        "ingredientColour": "#d13255"
+    },
+     "Pisco": {
+        "ingredientID": "37",
+        "ingredientGroup": "1",
+        "ingredientColour": "#FFFACD"
+    },
+    "Seltzer": {
+        "ingredientID": "38",
+        "ingredientGroup": "6",
+        "ingredientColour": "#dcf0ef"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
